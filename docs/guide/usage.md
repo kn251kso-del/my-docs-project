@@ -3,7 +3,7 @@
 **Додавання:**
 ```python
 # add.py
-print(5 + 2)
+print(5 + 2)```
 **Віднімання:**
 ```python
 # subtract.py
